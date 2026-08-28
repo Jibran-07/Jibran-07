@@ -14,7 +14,7 @@ Currently building my skills in **PostgreSQL, Power BI, Data Analytics, and Mach
 
 **Languages & Programming**
 
-`Python` `SQL` `Java` `JavaScript`
+`Python` `SQL` `Java` `TypeScript`
 
 **Data & Analytics**
 
