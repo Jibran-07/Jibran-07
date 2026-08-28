@@ -4,7 +4,7 @@
 
 I'm a Computer Science undergraduate interested in **Data Science, Analytics, and AI**, with a focus on turning data into meaningful insights and practical solutions.
 
-I enjoy working across the full data journey — from **SQL and data preparation to analysis, visualization, machine learning, and communicating insights clearly**.
+I enjoy working across the full data journey; from **SQL and data preparation to analysis, visualization, machine learning, and communicating insights clearly**.
 
 Currently building my skills in **PostgreSQL, Power BI, Data Analytics, and Machine Learning**, while exploring how data and AI can be applied to real-world business problems.
 
