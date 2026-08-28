@@ -71,7 +71,7 @@ A simulation and optimization project focused on analyzing emergency department 
 ### 🌿 Indus Fishing Cat Project
 Designed and developed the website for the Indus Fishing Cat Project, combining web development with digital communication for a conservation-focused organization.
 
-**Next.js • JavaScript • HTML • CSS**
+**Next.js • TypeScript • HTML • CSS**
 
 ---
 
