@@ -2,13 +2,11 @@
 
 ### Computer Science Undergraduate | Data Science • Analytics • Engineering • AI
 
-I'm a Computer Science undergraduate interested in **Data Science, Data Analytics, Data Engineering, and AI/ML**, with a focus on building data-driven solutions and turning data into meaningful insights.
+I'm a Computer Science undergraduate interested in **Data Science, Data Analytics, Data Engineering, and AI/ML**, with a focus on building data driven solutions and turning data into meaningful insights.
 
 I enjoy working across different stages of the data lifecycle, from **data collection and preparation to SQL, analysis, visualization, machine learning, and communicating insights clearly**.
 
-I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, Power BI, statistics, machine learning, and data engineering concepts**, while exploring how data and AI can be applied to real-world and business problems.
-
----
+I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, Power BI, statistics, machine learning, and data engineering concepts**, while exploring how data and AI can be applied to real world and business problems.
 
 ## 🚀 Technical Skills
 
@@ -35,8 +33,6 @@ I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, 
 
 `Next.js` `React` `HTML` `CSS` `Git` `GitHub`
 
----
-
 ## 📊 Areas of Interest
 
 * Data Science & Advanced Analytics
@@ -45,9 +41,7 @@ I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, 
 * Machine Learning & AI
 * Business Analytics & Business Intelligence
 * Data Visualization & Storytelling
-* Data-Driven Decision Making
-
----
+* Data Driven Decision Making
 
 ## 🔭 Currently Learning
 
@@ -59,8 +53,6 @@ I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, 
 * Statistical Analysis
 * Machine Learning
 * Generative AI
-
----
 
 ## 🛠️ Projects
 
@@ -82,35 +74,31 @@ Developed a simulation and optimization project focused on modeling emergency de
 
 **Python • Simulation • Optimization**
 
-### 🛠️ AssistIQ — IT Support Portal
+### 🛠️ AssistIQ | IT Support Portal
 
-Developing an internal IT support portal that combines ticket management with AI-assisted support workflows, with a focus on improving how employees submit and manage IT issues.
+Developing an internal IT support portal that combines ticket management with AI assisted support workflows, with a focus on improving how employees submit and manage IT issues.
 
 **Next.js • TypeScript • Python • SQL • AI**
 
 ### 🌿 Indus Fishing Cat Project
 
-Designed and developed a website for the Indus Fishing Cat Project, combining web development with digital communication for a conservation-focused organization.
+Designed and developed a website for the Indus Fishing Cat Project, combining web development with digital communication for a conservation focused organization.
 
 **Next.js • TypeScript • HTML • CSS**
 
----
-
 ## 💼 Experience
 
-### IT Intern — First Women Bank Ltd.
+### IT Intern | First Women Bank Ltd.
 
-Working within the IT department with exposure to **IT infrastructure and enterprise IT support processes**, while contributing to the development of an internal IT support portal and gaining experience with system-related troubleshooting under supervision.
+Working within the IT department with exposure to **IT infrastructure and enterprise IT support processes**, while contributing to the development of an internal IT support portal and gaining experience with system related troubleshooting under supervision.
 
-### AI (Python) Intern — QBS Co. Pvt. Ltd.
+### AI (Python) Intern | QBS Co. Pvt. Ltd.
 
-Worked on **Python-based AI development, backend tasks, and computer vision projects**, including development work related to a YOLO-based surveillance system.
+Worked on **Python based AI development, backend tasks, and computer vision projects**, including development work related to a YOLO based surveillance system.
 
-### Social Media Manager — Indus Fishing Cat Project
+### Social Media Manager | Indus Fishing Cat Project
 
 Managed social media activities, developed content, interacted with audiences, and analyzed engagement to support the project's digital communication.
-
----
 
 ## 🎓 Education
 
@@ -122,15 +110,11 @@ Relevant coursework:
 `Multivariate Calculus` `Data Structures & Algorithms`
 `Artificial Intelligence` `Machine Learning` `Data Science`
 
----
-
 ## 🎯 Career Focus
 
-I'm building toward a career in **data-focused technology roles**, with interests spanning **Data Science, Data Analytics, Data Engineering, AI/ML, and Business Analytics**.
+I'm building toward a career in **data focused technology roles**, with interests spanning **Data Science, Data Analytics, Data Engineering, AI/ML, and Business Analytics**.
 
-I'm particularly interested in roles where I can combine **programming, data, analytical thinking, and business problem solving** to build useful data-driven solutions.
-
----
+I'm particularly interested in roles where I can combine **programming, data, analytical thinking, and business problem solving** to build useful data driven solutions.
 
 ## 📫 Let's Connect
 
