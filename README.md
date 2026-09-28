@@ -1,75 +1,96 @@
 # Hi, I'm Jibran 👋
 
-### Computer Science Undergraduate | Data Science • Analytics • AI
+### Computer Science Undergraduate | Data Science • Analytics • Engineering • AI
 
-I'm a Computer Science undergraduate interested in **Data Science, Analytics, and AI**, with a focus on turning data into meaningful insights and practical solutions.
+I'm a Computer Science undergraduate interested in **Data Science, Data Analytics, Data Engineering, and AI/ML**, with a focus on building data-driven solutions and turning data into meaningful insights.
 
-I enjoy working across the full data journey; from **SQL and data preparation to analysis, visualization, machine learning, and communicating insights clearly**.
+I enjoy working across different stages of the data lifecycle, from **data collection and preparation to SQL, analysis, visualization, machine learning, and communicating insights clearly**.
 
-Currently building my skills in **PostgreSQL, Power BI, Data Analytics, and Machine Learning**, while exploring how data and AI can be applied to real-world business problems.
+I'm currently strengthening my skills in **Python, SQL, PostgreSQL, SQL Server, Power BI, statistics, machine learning, and data engineering concepts**, while exploring how data and AI can be applied to real-world and business problems.
 
 ---
 
-## 🚀 What I'm Working With
+## 🚀 Technical Skills
 
-**Languages & Programming**
+**Programming**
 
 `Python` `SQL` `Java` `TypeScript`
 
 **Data & Analytics**
 
-`Pandas` `NumPy` `Matplotlib` `PostgreSQL` `Power BI`
+`Pandas` `NumPy` `Matplotlib` `PostgreSQL` `SQL Server`
+`Power BI` `DAX` `Data Analysis` `Data Visualization` `Statistics`
 
 **Machine Learning & AI**
 
-`Scikit-learn` `PyTorch` `Machine Learning` `Artificial Intelligence`
+`Scikit-learn` `PyTorch`
+`Machine Learning` `Artificial Intelligence`
 
-**Web & Other Tools**
+**Data Engineering**
 
-`Next.js` `HTML` `CSS` `Git` `GitHub`
+`SQL` `PostgreSQL` `SQL Server`
+`Data Processing` `Data Modeling` `ETL Concepts`
+
+**Development & Tools**
+
+`Next.js` `React` `HTML` `CSS` `Git` `GitHub`
 
 ---
 
 ## 📊 Areas of Interest
 
-- Data Science & Advanced Analytics
-- Data Analytics & Business Intelligence
-- Machine Learning & AI
-- Data Visualization & Storytelling
-- Business & Data Driven Decision Making
+* Data Science & Advanced Analytics
+* Data Analytics
+* Data Engineering
+* Machine Learning & AI
+* Business Analytics & Business Intelligence
+* Data Visualization & Storytelling
+* Data-Driven Decision Making
 
 ---
 
 ## 🔭 Currently Learning
 
-- Advanced SQL & PostgreSQL
-- Power BI & DAX
-- Data Modeling & Business Intelligence
-- Statistical Analysis
-- Machine Learning
-- Generative AI
+* Advanced SQL & PostgreSQL
+* SQL Server & Window Functions
+* Data Engineering Fundamentals
+* Data Modeling & ETL
+* Power BI & DAX
+* Statistical Analysis
+* Machine Learning
+* Generative AI
 
 ---
 
 ## 🛠️ Projects
 
 ### 📈 Zomato Food Delivery Analysis
-Exploring restaurant and food delivery data to identify patterns, trends, and business opportunities through data analysis and visualization.
+
+Analyzed food delivery data to explore patterns, trends, and potential business insights through data preparation, exploratory analysis, visualization, and reporting.
 
 **Python • Pandas • Data Analysis • Power BI**
 
 ### 🤖 AutoEncoder Projects
-Exploring representation learning and neural networks through variation and denoising autoencoder implementations.
+
+Explored representation learning and neural networks through variation and denoising autoencoder implementations.
 
 **Python • PyTorch • Deep Learning**
 
 ### 🏥 Hospital ED Simulation & Optimization
-A simulation and optimization project focused on analyzing emergency department processes and improving operational decision making.
+
+Developed a simulation and optimization project focused on modeling emergency department processes and evaluating approaches for improved operational decision making.
 
 **Python • Simulation • Optimization**
 
+### 🛠️ AssistIQ — IT Support Portal
+
+Developing an internal IT support portal that combines ticket management with AI-assisted support workflows, with a focus on improving how employees submit and manage IT issues.
+
+**Next.js • TypeScript • Python • SQL • AI**
+
 ### 🌿 Indus Fishing Cat Project
-Designed and developed the website for the Indus Fishing Cat Project, combining web development with digital communication for a conservation-focused organization.
+
+Designed and developed a website for the Indus Fishing Cat Project, combining web development with digital communication for a conservation-focused organization.
 
 **Next.js • TypeScript • HTML • CSS**
 
@@ -77,25 +98,37 @@ Designed and developed the website for the Indus Fishing Cat Project, combining 
 
 ## 💼 Experience
 
-**IT Intern — First Women Bank Ltd.**
+### IT Intern — First Women Bank Ltd.
 
-Working within the IT department with exposure to infrastructure, core banking, and alternate delivery channels, while contributing to an internal IT support portal and assisting with system-related troubleshooting.
+Working within the IT department with exposure to **IT infrastructure and enterprise IT support processes**, while contributing to the development of an internal IT support portal and gaining experience with system-related troubleshooting under supervision.
 
-**AI (Python) Intern — QBS Co. Pvt. Ltd.**
+### AI (Python) Intern — QBS Co. Pvt. Ltd.
 
-Worked on Python-based AI development, backend tasks, and computer vision projects, including development work related to a YOLO-based surveillance system.
+Worked on **Python-based AI development, backend tasks, and computer vision projects**, including development work related to a YOLO-based surveillance system.
+
+### Social Media Manager — Indus Fishing Cat Project
+
+Managed social media activities, developed content, interacted with audiences, and analyzed engagement to support the project's digital communication.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
+**Bachelor of Science in Computer Science**
 
-Relevant coursework includes:
+Relevant coursework:
 
-`Statistics` `Probability` `Linear Algebra` `Calculus`  
-`Multivariate Calculus` `Data Structures & Algorithms`  
+`Statistics` `Probability` `Linear Algebra` `Calculus`
+`Multivariate Calculus` `Data Structures & Algorithms`
 `Artificial Intelligence` `Machine Learning` `Data Science`
+
+---
+
+## 🎯 Career Focus
+
+I'm building toward a career in **data-focused technology roles**, with interests spanning **Data Science, Data Analytics, Data Engineering, AI/ML, and Business Analytics**.
+
+I'm particularly interested in roles where I can combine **programming, data, analytical thinking, and business problem solving** to build useful data-driven solutions.
 
 ---
 
@@ -103,8 +136,4 @@ Relevant coursework includes:
 
 **LinkedIn:** [Muhammad Jibran Narejo](https://www.linkedin.com/in/muhammad-jibran-narejo/)
 
-**Email:** muhammadjibrannarejo@gmail.com
-
----
-
-> **Data Storyteller | Turning data into insights, and insights into decisions.**
+**Email:** [muhammadjibrannarejo@gmail.com](mailto:muhammadjibrannarejo@gmail.com)
