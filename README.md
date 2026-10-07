@@ -21,8 +21,8 @@
 
 I'm a **Computer Science undergraduate** building toward a career in **Data Science, Analytics, Data Engineering, and AI/ML**. I like working across the whole data lifecycle, from collecting and cleaning data to modeling, visualizing, and explaining what it means for the business.
 
-- 🔭 Building **AssistIQ**, an AI-assisted IT support portal
-- 💼 **IT Intern** at First Women Bank Ltd.
+- 🏆 **2nd place out of 84 teams** at Banao's Imaginathon 2026 with [Paani Pulse](https://paani-pulse.vercel.app)
+- 💼 **IT Intern** at First Women Bank Ltd., working on an internal IT Helpdesk Portal
 - 🌱 Leveling up in **advanced SQL, data modeling & ETL, Power BI/DAX, and Generative AI**
 - 🎯 Looking for **data-focused roles** where code, analysis, and business sense meet
 - 📫 Reach me at **muhammadjibrannarejo@gmail.com**
@@ -37,7 +37,7 @@ I'm a **Computer Science undergraduate** building toward a career in **Data Scie
 
 **Languages & Tools**
 
-<img src="https://skillicons.dev/icons?i=py,java,ts,postgres,react,nextjs,html,css,git,github,vscode&perline=11" alt="Languages and tools"/>
+<img src="https://skillicons.dev/icons?i=py,java,ts,postgres,mysql,fastapi,react,nextjs,html,css,git,github,vscode&perline=13" alt="Languages and tools"/>
 
 **Machine Learning & AI**
 
@@ -52,7 +52,10 @@ I'm a **Computer Science undergraduate** building toward a career in **Data Scie
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
@@ -65,12 +68,13 @@ I'm a **Computer Science undergraduate** building toward a career in **Data Scie
 | Area | Skills |
 |---|---|
 | **Programming** | Python · SQL · Java · TypeScript |
-| **Data & Analytics** | Pandas · NumPy · Matplotlib · Power BI · DAX · Statistics · Data Visualization |
-| **Databases** | PostgreSQL · SQL Server · Window Functions · Data Modeling |
-| **Data Engineering** | Data Processing · ETL Concepts · Data Modeling |
-| **Machine Learning & AI** | Scikit-learn · PyTorch · Deep Learning · Computer Vision (YOLO) |
+| **Python Libraries** | NumPy · Pandas · Matplotlib · Scikit-learn · PyTorch · FastAPI |
+| **Data Engineering & Databases** | PostgreSQL · MS SQL Server · MySQL · SQLAlchemy · Data Processing · Data Modeling · ETL Concepts |
+| **Visualization & Analytics** | Power BI · DAX · Matplotlib · Google Analytics · Data Reporting · Statistical Analysis |
+| **Machine Learning & AI** | Scikit-learn · PyTorch · Deep Learning · RAG · Computer Vision (YOLO) · Simulation & Optimization |
 | **Web Development** | Next.js · React · HTML · CSS |
-| **Tools** | Git · GitHub · Jupyter · VS Code |
+| **Tools** | Git · GitHub · Jupyter · VS Code · JIRA · Microsoft 365 |
+| **Core Competencies** | Data Structures & Algorithms · OOP · Problem Solving · Analytical Thinking · Cross-functional Collaboration |
 
 </details>
 
@@ -101,15 +105,15 @@ SQL analysis of job postings to find the most in-demand skills, roles, salaries,
 <td width="50%" valign="top">
 
 ### 🛠️ [AssistIQ · IT Support Portal](https://github.com/Jibran-07/assistiq-support-portal)
-Internal IT support portal that combines ticket management with AI-assisted support workflows to make submitting and resolving issues easier.
+AI-assisted IT support platform combining ticket management, knowledge-base retrieval, **RAG-based assistance**, analytics, and **local LLM** capabilities for automated issue resolution.
 
-`Next.js` `TypeScript` `Python` `SQL` `AI`
+`Next.js` `TypeScript` `Python` `SQL` `RAG` `LLM`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 [Hospital ED Simulation & Optimization](https://github.com/Jibran-07/HospitalED_Simulation-Optimization)
-Models emergency department processes and compares strategies for better operational decision-making.
+Models hospital emergency department operations to analyze **patient flow** and **resource utilization**, and to support better operational decision-making.
 
 `Python` `Simulation` `Optimization`
 
@@ -137,8 +141,28 @@ Interactive sentiment analysis app built with Streamlit and Hugging Face transfo
 <tr>
 <td width="50%" valign="top">
 
+### 🔐 [Data Encryption System](https://github.com/Jibran-07/Data_Encryption_System)
+Encryption and decryption system demonstrating secure data transformation and core cryptographic concepts.
+
+`Python` `Cryptography`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Student Management System](https://github.com/Jibran-07/Student-Management-System)
+Object-oriented application for managing student records and common academic administration tasks.
+
+`Java` `OOP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 💧 [Paani Pulse](https://paani-pulse.vercel.app)
-Community network that keeps Tharparkar's water plants running. Volunteers report failures by WhatsApp voice note, AI maps every plant live, and donors fund verified repairs. Built for **Imaginathon 2026**.
+🏆 **2nd of 84 teams at Banao's Imaginathon 2026**
+
+AI-powered platform that keeps Tharparkar's water plants running. It connects WhatsApp voice-note failure reports with live monitoring, repair funding, technician assignment, and community verification.
 
 `Next.js` `TypeScript` `Supabase` `Leaflet` `AI`
 
@@ -162,11 +186,12 @@ Official website for a conservation organization protecting Pakistan's small wil
 
 ## 💼 Experience
 
-| Role | Organization | Highlights |
-|---|---|---|
-| **IT Intern** | First Women Bank Ltd. | Enterprise IT infrastructure and support processes; building an internal IT support portal; system troubleshooting |
-| **AI (Python) Intern** | QBS Co. Pvt. Ltd. | Python AI and backend development; computer vision work on a **YOLO-based surveillance system** |
-| **Social Media Manager** | Indus Fishing Cat Project | Content strategy, audience engagement, and engagement analytics for a conservation project |
+| Role | Organization | Period | Highlights |
+|---|---|---|---|
+| **Intern, Information Technology** | First Women Bank Ltd. | Aug 2026 – Present | Building an internal **IT Helpdesk Portal**; IT support and system troubleshooting; SQL queries, data retrieval, and access management with the DBA |
+| **Intern, AI (Python)** | QBS Co. Pvt. Ltd. | Aug – Sep 2025 | Python AI development and model implementation; backend logic; computer vision work on a **YOLO-based surveillance system** |
+| **Social Media Manager** | Indus Fishing Cat Project | Jun – Jul 2025 | Content scheduling, engagement tracking, and performance insights to grow outreach |
+| **Intern, Marketing & Resource Development** | Shaukat Khanum Memorial Trust | Jul 2022 | Online donation campaigns, digital promotional materials, and outreach documentation |
 
 ---
 
@@ -185,6 +210,24 @@ Official website for a conservation organization protecting Pakistan's small wil
 <img src="https://img.shields.io/badge/Machine%20Learning-2C5364?style=flat-square"/>
 <img src="https://img.shields.io/badge/Data%20Science-2C5364?style=flat-square"/>
 </p>
+
+### 📜 Certifications
+
+| Certification | Issuer |
+|---|---|
+| SQL Associate | DataCamp |
+| Data Visualization with Matplotlib | DataCamp |
+| CS50's Introduction to Programming with Python | Harvard (CS50) |
+| AI Python for Beginners | Coursera |
+| Programming Foundations with JavaScript, HTML and CSS | Coursera |
+| Leading with Character | The Oxford Character Project |
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd place out of 84 teams** from across Pakistan at **Banao's Imaginathon 2026** for [Paani Pulse](https://paani-pulse.vercel.app)
+- 🌱 **30 hours of community service** with **WWF-Pakistan**, supporting environmental and community initiatives
 
 ---
 
@@ -221,8 +264,10 @@ Official website for a conservation organization protecting Pakistan's small wil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jibran-07&show_icons=true&hide_border=true&bg_color=00000000&title_color=2C9CDB&icon_color=2C9CDB&text_color=8b949e&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jibran-07&show_icons=true&include_all_commits=true&hide=prs,issues,contribs&hide_border=true&bg_color=00000000&title_color=2C9CDB&icon_color=2C9CDB&text_color=8b949e&rank_icon=github" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com?user=Jibran-07&hide_border=true&background=00000000&ring=2C9CDB&fire=2C9CDB&currStreakLabel=2C9CDB&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub streak"/>
+
+<sub>Stars, commits and languages cover public repositories. Contribution and streak totals include private work.</sub>
 
 </div>
 
